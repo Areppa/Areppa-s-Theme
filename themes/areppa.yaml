@@ -11,7 +11,8 @@ Areppa's Theme:
 
 
       # Header
-      app-header-background-color: rgb(0, 0, 0, 60%)
+      app-header-background-color: rgb(0, 0, 0, 0)
+      app-header-backdrop-filter: blur(20px)
       app-header-text-color: rgb(229, 229, 234)
       app-header-selection-bar-color: var(--primary-color)
 
