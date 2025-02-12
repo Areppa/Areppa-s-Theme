@@ -8,9 +8,12 @@ Areppa's Theme:
       divider-color: rgb(44, 44, 46)
       primary-background-color: rgb(0, 0, 0)
       secondary-background-color: rgb(44, 44, 46)
-
+      
+      # Other effects
+      dialog-backdrop-filter: blur(3px)
 
       # Header
+      header-height: 56px
       app-header-background-color: rgb(0, 0, 0, 0)
       app-header-backdrop-filter: blur(8px)
       app-header-text-color: rgb(229, 229, 234)
