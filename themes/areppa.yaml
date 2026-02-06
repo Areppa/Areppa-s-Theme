@@ -10,7 +10,7 @@ Areppa's Theme:
       secondary-background-color: rgb(44, 44, 46)
       
       # Background
-      background-image: "center / cover no-repeat fixed url('https://raw.githubusercontent.com/Areppa/Areppa-s-Theme/master/background.jpg')"
+      background-image: "center / cover no-repeat fixed url('https://raw.githubusercontent.com/Areppa/Areppa-s-Theme/master/themes/background.png')"
       lovelace-background: var(--background-image)
 
       # Other effects
